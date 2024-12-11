@@ -1,0 +1,13 @@
+# Ignorer les fichiers de configuration de l'IDE
+.idea/
+*.iml
+
+# Ignorer les fichiers générés lors de la compilation
+target/
+*.log
+
+# Ignorer les fichiers spécifiques aux environnements
+.env
+
+# Ignorer les fichiers de système d'exploitation
+Thumbs.db   # Windows
